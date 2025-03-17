@@ -1,0 +1,1 @@
+This Version contains the password protection and the master_bom path selection for the .exe

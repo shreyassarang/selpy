@@ -1,0 +1,2 @@
+Setting up python PATH
+ $env:PATH = "C:\Program Files (x86)\OpenOffice 4\program;" + $env:PATH
